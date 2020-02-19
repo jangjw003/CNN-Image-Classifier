@@ -1,3 +1,5 @@
 # Projects
 
-- First NN project
+CNN
+
+
