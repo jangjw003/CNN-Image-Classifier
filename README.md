@@ -1,5 +1,5 @@
-# Projects
+# CNN-Image-Classifier
 
-CNN
+Uses CNN
 
 
